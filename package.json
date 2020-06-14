@@ -1,0 +1,23 @@
+{
+  "name": "Patatap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agukly/patatap-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agukly/patatap-clone/issues"
+  },
+  "homepage": "https://github.com/agukly/patatap-clone#readme",
+  "dependencies": {
+    "paper": "^0.12.7"
+  }
+}
